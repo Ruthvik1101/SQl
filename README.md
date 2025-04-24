@@ -1,1 +1,1 @@
-# SQl
+This SQL script creates an ecom database and analyzes e-commerce data from imported CSV files. It retrieves customer and order insights, such as top spenders, customer distribution by city, and recent order details. It also identifies popular products, customers with high-value orders, and products priced above average. Additionally, it calculates total revenue and average quantities ordered per product. These queries help understand sales trends, customer behavior, and product performance.
