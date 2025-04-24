@@ -1,0 +1,9 @@
+product_id,name,category,price,stock_qty
+101,Wireless Mouse,Electronics,25.0,297
+102,USB-C Cable,Electronics,10.0,105
+103,Water Bottle,Home,15.0,178
+104,Notebook,Stationery,5.0,177
+105,Bluetooth Speaker,Electronics,50.0,333
+106,Desk Lamp,Home,30.0,126
+107,Pen Pack,Stationery,3.0,389
+108,Laptop Stand,Electronics,40.0,128
